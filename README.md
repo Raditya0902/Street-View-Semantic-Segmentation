@@ -2,8 +2,7 @@
 Implemented semantic segmentation using MATLAB and the CamVid dataset with DeepLabv3+ and ResNet-18.
 
 # Training Details
-![Screenshot 2023-10-21 105619](https://github.com/Raditya0902/Street-View-Semantic-Segmentation/assets/124700496/631334ca-73ba-449a-ab8b-df3d367d75fa)
-
+![Screenshot (15)](https://github.com/Raditya0902/Street-View-Semantic-Segmentation/assets/124700496/ec7c3e6c-2ffc-4f2e-b208-93bfe6e4f066)
 
 # Metrics
 ![Screenshot 2023-10-21 105619](https://github.com/Raditya0902/Street-View-Semantic-Segmentation/assets/124700496/cf5c347f-742f-414b-8068-469543480741)
